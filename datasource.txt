@@ -1,0 +1,5 @@
+inflation rate,USD VALUE,CPI - https://www.in2013dollars.com/Housing/price-inflation/2000-to-2021?amount=100000
+permits - https://tradingeconomics.com/united-states/building-permits
+unemployment,price - https://fred.stlouisfed.org/series/CSUSHPISA
+economy - https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?end=2019&locations=US&start=2000&view=chart
+population - https://www.macrotrends.net/countries/USA/united-states/population-growth-rate
